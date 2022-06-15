@@ -6,7 +6,7 @@ body{
     background-color: rgb(194, 155, 229);
 }
 main{
-    background-color:white;
+    background-color:rgba(255, 255, 255, 0.925);
     width: 500px;
     margin: auto;
     padding: 10px;
